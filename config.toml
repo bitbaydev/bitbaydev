@@ -1,6 +1,49 @@
-baseURL = "http://bitbay.market/"
+# baseURL = "http://bitbay.market/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Bitbay.Market"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 theme = "bitbay"
+
+[languages]
+  [languages.en]
+    title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
+    languageName = "English"
+    weight = 1
+    contentDir = "content/en"
+  [languages.es]
+    title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
+    languageName = "Spanish"
+    weight = 2
+    contentDir = "content/es"
+  [languages.fr]
+    title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
+    languageName = "French"
+    weight = 3
+    contentDir = "content/fr"
+  [languages.ru]
+    title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
+    languageName = "Russian"
+    weight = 4
+    contentDir = "content/ru"
+  [languages.ja]
+    title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
+    languageName = "Japanese"
+    weight = 5
+    contentDir = "content/ja"
+  [languages.ko]
+    title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
+    languageName = "Korean"
+    weight = 6
+    contentDir = "content/ko"
+  [languages.ar]
+    title = "قالب المقايضة - BitBay"
+    languageName = "Arabic"
+    weight = 7
+    contentDir = "content/ar"
+  [languages.pl]
+    title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
+    languageName = "Polish"
+    weight = 8
+    contentDir = "content/pl"

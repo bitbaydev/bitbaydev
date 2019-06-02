@@ -33,38 +33,8 @@
 
     <title>{{.Title}}</title>
     <meta content="width=device-width, initial-scale=1" name="viewport">
-    <link rel="stylesheet" href="/core/modules/system/css/components/align.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/fieldgroup.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/container-inline.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/clearfix.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/details.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/hidden.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/item-list.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/js.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/nowrap.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/position-container.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/progress.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/reset-appearance.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/resize.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/sticky-header.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/system-status-counter.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/system-status-report-counters.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/system-status-report-general-info.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/tablesort.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/system/css/components/tree-child.module.css" media="all" />
-<link rel="stylesheet" href="/core/modules/views/css/views.module.css" media="all" />
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" media="all" />
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js" media="all" />
-<link rel="stylesheet" href="/modules/contrib/webform/modules/webform_bootstrap/css/webform_bootstrap.css" media="all" />
-<link rel="stylesheet" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css" media="all" />
-<link rel="stylesheet" href="/libraries/bootstrap-languages/languages.css" media="all" />
-<link rel="stylesheet" href="/modules/contrib/bootstrap_languages/styles/bootstrap_languages.css" media="all" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.css" media="all" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@unicorn-fail/drupal-bootstrap-styles@0.0.1/dist/3.4.0/8.x-3.x/drupal-bootstrap.css" media="all" />
-<link rel="stylesheet" href="/themes/bitbay/css/webflow.css" media="all" />
-<link rel="stylesheet" href="/themes/bitbay/css/style.css" media="all" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/css/flag-icon.min.css" media="all" />
 
+    {{ partialCached "_styles.html" . }}
     
 <!--[if lte IE 8]>
 <script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>

@@ -11,36 +11,9 @@
 
     <header class="navbar navigation w-nav navbar-default container-fluid" id="navbar" role="banner"
       data-collapse="medium" data-animation="default" data-duration="400">
-      <div class="menutopbar">
-        <div class="region region-menutopbar">
-          <nav role="navigation" aria-labelledby="block-system-menu-block-top-menu-menu"
-            id="block-system-menu-block-top-menu">
 
-            <h2 class="visually-hidden" id="block-system-menu-block-top-menu-menu">Top menu</h2>
+      {{ partialCached "menu_topbar.html" . }}
 
-
-
-            <ul class="menu menu--top-menu nav">
-              <li class="first">
-                <a href="/buy" >Buy $BAY</a>
-              </li>
-              <li>
-                <a href="https://staking.bitbay.market">Staking Calculator</a>
-              </li>
-              <li>
-                <a href="https://wallet.bitbay.market">Web Wallet</a>
-              </li>
-              <li class="last">
-                <a href="https://forum.bitbay.market">Community</a>
-              </li>
-            </ul>
-
-
-          </nav>
-
-        </div>
-
-      </div>
       <div class="navbar-header">
         <div class="region region-navigation">
           <a class="logo navbar-btn pull-left" href="/" title="Home" rel="home">

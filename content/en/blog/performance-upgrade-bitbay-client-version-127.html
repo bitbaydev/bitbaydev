@@ -1,0 +1,266 @@
+---
+url: blog/performance-upgrade-bitbay-client-version-127
+title: "Performance upgrade for BitBay Client Version 1.27 - BitBay"
+date: 2019-04-13T16:37:08+03:00
+draft: false
+layout: page
+description: "Performance upgrade for BitBay Client Version 1.27 - BitBay"
+bodyclasses:
+---
+  
+  <section role="main" class="main main-container container-fluid js-quickedit-main-content">
+    <div class="row">
+
+            
+                          
+      <div class="col-sm-12">
+
+                
+                
+                                    <a id="main-content"></a>
+            <div class="region region-content">
+      <div class="w-container w-cont-wrap page-block-title">
+        <h2  class="align-center heading-purple">
+        <span>Performance upgrade for BitBay Client Version 1.27</span>
+
+    </h2>
+
+  </div>
+
+
+<article data-history-node-id="143" role="article" about="/blog/performance-upgrade-bitbay-client-version-127" class="blog-post is-promoted full clearfix">
+
+    
+        
+    <div class='w-container par-blog-section'>
+        <div class="w-col w-col-12">
+            <div class='blog-subtitle'></div>
+            <div class="blog-author-date">
+                <div class="blog-author">BitBay Team</div>
+                <div class="blog-date">May 25 2017 </div>
+            </div>
+            
+ 
+  
+  
+      <div class="share-links">
+          <span class="facebook">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://bitbay.market/blog/performance-upgrade-bitbay-client-version-127&t=Performance%20upgrade%20for%20BitBay%20Client%20Version%201.27" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+              <span>
+                <i class="fab fa-facebook-f"></i>
+                <span class="sr-only">Share on Facebook</span>
+              </span>
+            </a>
+          </span>
+          <span class="twitter">
+            <a href="https://twitter.com/share?text=Performance%20upgrade%20for%20BitBay%20Client%20Version%201.27&url=https://bitbay.market/blog/performance-upgrade-bitbay-client-version-127" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+              <span>
+                <i class="fab fa-twitter"></i>
+                <span class="sr-only">Share on Twitter</span>
+              </span>
+            </a>
+          </span>
+          <span class="linkedin">
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://bitbay.market/blog/performance-upgrade-bitbay-client-version-127&title=Performance%20upgrade%20for%20BitBay%20Client%20Version%201.27" onclick="window.open(this.href, 'linkedin-share', 'width=550,height=235');return false;">
+              <span>
+                <i class="fab fa-linkedin"></i>
+                <span class="sr-only">Share on linkedin</span>
+              </span>
+            </a>
+          </span>
+          <span class="google-plus">              
+            <a href="https://plus.google.com/share?url=https://bitbay.market/blog/performance-upgrade-bitbay-client-version-127" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+              <span>
+                <i class="fab fa-google-plus"></i>
+                <span class="sr-only">Share on Google Plus</span>
+              </span>
+            </a>
+          </span>
+      </div>
+              
+        </div>
+    </div>
+    <div class="content">
+      
+      <div class="field field--name-field-blog-section field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  <div class="paragraph paragraph--type--blog-section paragraph--view-mode--default par-blog-section   ">
+                  <div class="w-container">
+          <div class="w-row">
+
+                  <div class="w-col w-col-12">
+              
+            </div>
+                    </div>
+        </div>
+
+          
+                  <div class="w-container">
+          <div class="w-row">
+
+            <div class="w-col w-col-12">
+              <div class="par-sec-text">
+                                <div class="par-sec-body">
+            <div class="field field--name-field-body field--type-text-long field--label-hidden field--item"><p id="20ec" name="20ec">We are happy to announce the release of the new version of the BitBay Halo Client. This release mainly focuses on performance upgrades and fine tuning the Client’s many features. It will allow David the ability from here on out to focus solely on coding the final features of the core build.</p>
+
+<p id="a3a9" name="a3a9">Halo Version 1.27 updates include:</p>
+
+<ul>
+	<li id="d0b5" name="d0b5">Added admin method to build into manifest</li>
+	<li id="43e1" name="43e1">Made it so pastebin can be updated for existing orders with missing images on resubmit</li>
+	<li id="2a99" name="2a99">Started to track memory leaks for better performance</li>
+	<li id="db56" name="db56">Checked data type for querying history in case of erroneous data</li>
+	<li id="ffcf" name="ffcf">Checked data being returned from Electrum in BitHalo raw tx in case of erroneous data</li>
+	<li id="5e37" name="5e37">Added splash screen for submitting TX and also added wait function for waiting for download thread to unlock causing false rejections</li>
+	<li id="0091" name="0091">Added splash for image compression during upload</li>
+	<li id="1578" name="1578">Fixed balance issue in multistake on same input</li>
+	<li id="0bff" name="0bff">Fixed issue where the number of keys connected changes too early</li>
+	<li id="5ecf" name="5ecf">Wallet does not unlock for spending unless requested — allowing for wallet to be unlocked for staking only.</li>
+	<li id="12e2" name="12e2">Added image cache to make software more responsive because png conversion for computers without jpeg driver is slow</li>
+	<li id="1d78" name="1d78">Added custom video library link per coin</li>
+	<li id="d13e" name="d13e">Staking is now off by default so users must activate it manually. Since a new user might get confused when funds become unspendable upon deposit</li>
+	<li id="ee3d" name="ee3d">Added sh file to build for Linux to (potentially) improve QT performance on some systems</li>
+	<li id="f8d5" name="f8d5">Fixed other minor user interface issues</li>
+	<li id="b67c" name="b67c">Added extra tips for guiding new users</li>
+	<li id="7bb8" name="7bb8">We now check for bitmessage timeouts</li>
+	<li id="42e1" name="42e1">Reindex option added if daemon fails to load</li>
+	<li id="1f7e" name="1f7e">Updated reputation system with redundant public key for resubmission to match original sender instead of temporary key</li>
+	<li id="d036" name="d036">Users can now accept a market order with either bitmessage or email even if the original offer prefers email</li>
+	<li id="d455" name="d455">Added more notifications for messages within escrow</li>
+	<li id="dd7f" name="dd7f">Generate bitmessage addresses based on rpc password in addition to keys. In this way switching single keys that you load with won’t generate a different address. This makes the address harder to figure out by looking at a script which is safer. Also, joint accounts now have a cleaner way of distinguishing their Bitmessage</li>
+	<li id="4583" name="4583">Added foundation for basic market messaging to update orders. Now users can alert of a change in quantity</li>
+	<li id="f491" name="f491">Verifying “market messaging” design needed for upcoming Buy/Sell Anything template auctions and various situations in Barter template</li>
+</ul>
+
+<p id="7c47" name="7c47">The next update will include all Checklocktimeverify (CLTV) features. This will provide users with a CLTV functioning UI — the first of its kind for cryptocurrencies, and it will include the patch for fixing the POS 3.0 reward output which currently should equal 20.76 Bay per block found!</p>
+
+<p id="cd71" name="cd71">After that David will release the API allowing for 3rd parties to utilize BitBay ‘under the hood’. This will allow for many undisclosed web based services. For example, imagine a website that utilizes BitBay to host a trustless Binary Options platform or a website host similar to localbitcoin.com for BitBay, yet completely trustless!</p>
+
+<p id="0f0e" name="0f0e">After that he can finally focus solely on the dynamic peg protocol! Thanks for your support and community involvement. We are in progress of completing our marketing team and want to thank everyone who has requested an interview. We will provide an update on our progress in the near future!</p>
+
+<p id="3bf1" name="3bf1">_________________________________________________________________________________________________________</p>
+
+<p id="c917" name="c917">Disclaimer &amp; Instructions: The BitBay Client Version 1.27 For Mac — We wish to spend some time to warn all Mac users that they must take extra precautions with downloading and installing a new version. As Mac users know, the Client currently runs a on a “Wine” version of Windows. Therefore, we recommend you do not overwrite the existing client. If a Mac user has their private keys saved inside the wine app, and then update the Client to 1.27, they will lose all existing files inside. This is why it is imperative that you store your keys in multiple back up locations. You are responsible for your own wallet. In no way shape or form will we provide refunds to those that can’t properly manage their private keys. We have an easy solution for this in future updates along with a solution for this update as well. So please take the time to read through this notice so you are prepared when we release the official update.<br />
+<br />
+<strong>Make backups of your private keys and make backups of important files such as Contracts.dat, Other.dat and you bitbaydata folder.</strong><br />
+<br />
+Here is how to properly update BitBay on Mac:</p>
+
+<ul>
+	<li id="ae25" name="ae25">Instead of downloading the new Mac version of Client, download the windows version update at&nbsp;<a data-href="http://www.davtonia.com/bitbay/bitbayupdatewin.zip" href="http://www.davtonia.com/bitbay/bitbayupdatewin.zip" rel="noopener" target="_blank">www.davtonia.com/bitbay/bitbayupdatewin.zip</a></li>
+	<li id="a093" name="a093">Then Mac users will extract the update file called ‘BitBayUpdate.exe’ to the computer</li>
+	<li id="0c8a" name="0c8a">Then run WineSkin inside the app package</li>
+	<li id="341d" name="341d">Select ‘Install Software’ and click ‘ Choose Setup Executable ‘ then choose the BitBayUpdate.exe file</li>
+	<li id="9ebc" name="9ebc">After installation is complete do not launch BitBay and close the installer</li>
+	<li id="8061" name="8061">Wine might say that no new executables were found so just ignore that message and exit wine</li>
+</ul>
+
+<p id="9a50" name="9a50">This will update Halo without overwriting the entire wine app or requiring you to resynchronize the blockchain.</p>
+</div>
+      </div>
+  
+              </div>
+            </div>
+                      </div>
+        </div>
+
+
+            </div>
+</div>
+          </div>
+  
+    </div>
+
+    <div class='w-container par-blog-section par-blog-section-footer'>
+        <div class="w-col w-col-12">
+            
+  <div class="field field--name-field-tags field--type-entity-reference field--label-above">
+    <div class="field--label">Tags</div>
+          <div class="field--items">
+              <div class="field--item"><a href="../tagged/blog.html" hreflang="en">Blog</a></div>
+              </div>
+      </div>
+
+            
+ 
+  
+  
+      <div class="share-links">
+          <span class="facebook">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://bitbay.market/blog/performance-upgrade-bitbay-client-version-127&t=Performance%20upgrade%20for%20BitBay%20Client%20Version%201.27" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+              <span>
+                <i class="fab fa-facebook-f"></i>
+                <span class="sr-only">Share on Facebook</span>
+              </span>
+            </a>
+          </span>
+          <span class="twitter">
+            <a href="https://twitter.com/share?text=Performance%20upgrade%20for%20BitBay%20Client%20Version%201.27&url=https://bitbay.market/blog/performance-upgrade-bitbay-client-version-127" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+              <span>
+                <i class="fab fa-twitter"></i>
+                <span class="sr-only">Share on Twitter</span>
+              </span>
+            </a>
+          </span>
+          <span class="linkedin">
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://bitbay.market/blog/performance-upgrade-bitbay-client-version-127&title=Performance%20upgrade%20for%20BitBay%20Client%20Version%201.27" onclick="window.open(this.href, 'linkedin-share', 'width=550,height=235');return false;">
+              <span>
+                <i class="fab fa-linkedin"></i>
+                <span class="sr-only">Share on linkedin</span>
+              </span>
+            </a>
+          </span>
+          <span class="google-plus">              
+            <a href="https://plus.google.com/share?url=https://bitbay.market/blog/performance-upgrade-bitbay-client-version-127" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+              <span>
+                <i class="fab fa-google-plus"></i>
+                <span class="sr-only">Share on Google Plus</span>
+              </span>
+            </a>
+          </span>
+      </div>
+              
+            
+            <div class="field field--name-field-disqus field--type-disqus-comment field--label-hidden field--item"><div id="disqus_thread" class="form-group"><noscript>
+  <p>
+    <a href="http://bitbay.disqus.com/">View the discussion thread.</a>
+  </p>
+</noscript>
+</div>
+</div>
+      
+        </div>
+    </div>
+
+</article>
+
+  </div>
+
+              </div>
+
+    </div>
+  </section>
+
+
+
+
+  

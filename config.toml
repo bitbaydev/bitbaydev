@@ -261,3 +261,46 @@ weight = 3
 url    = "/buy"
 name   = "$BAY購入"
 weight = 5
+
+
+
+[[languages.ko.menu.main]]
+url    = "bunsanhwadoen-makespeulleiseu"
+name   = "분산화된 마켓플레이스"
+weight = 1
+
+[[languages.ko.menu.main]]
+url    = "features"
+name   = "기능들"
+weight = 3
+
+[[languages.ko.menu.main]]
+url    = "the-team"
+name   = "팀"
+weight = 5
+
+[[languages.ko.menu.main]]
+url    = "roadmap"
+name   = "로드맵"
+weight = 7
+
+[[languages.ko.menu.main]]
+url    = "downloads"
+name   = "다운로드"
+weight = 9
+
+
+[[languages.ko.menu.navmobile]]
+url    = "https://forum.bitbay.market"
+name   = "커뮤니티"
+weight = 1
+
+[[languages.ko.menu.navmobile]]
+url    = "https://wallet.bitbay.market"
+name   = "웹 지갑"
+weight = 3
+
+[[languages.ko.menu.navmobile]]
+url    = "/buy"
+name   = "$BAY 사기"
+weight = 5

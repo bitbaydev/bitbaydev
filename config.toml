@@ -50,27 +50,27 @@ theme = "bitbay"
 
 
 [[languages.en.menu.main]]
-url    = "/decentralized-marketplace"
+url    = "decentralized-marketplace"
 name   = "Decentralized Marketplace"
 weight = 1
 
 [[languages.en.menu.main]]
-url    = "/features"
+url    = "features"
 name   = "Features"
 weight = 3
 
 [[languages.en.menu.main]]
-url    = "/the-team"
+url    = "the-team"
 name   = "The Team"
 weight = 5
 
 [[languages.en.menu.main]]
-url    = "/roadmap"
+url    = "roadmap"
 name   = "Roadmap"
 weight = 7
 
 [[languages.en.menu.main]]
-url    = "/downloads"
+url    = "downloads"
 name   = "Downloads"
 weight = 9
 

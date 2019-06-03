@@ -304,3 +304,47 @@ weight = 3
 url    = "/buy"
 name   = "$BAY 사기"
 weight = 5
+
+
+
+
+[[languages.pl.menu.main]]
+url    = "zdecentralizowana-gielda"
+name   = "Zdecentralizowana giełda"
+weight = 1
+
+[[languages.pl.menu.main]]
+url    = "features"
+name   = "Funkcje"
+weight = 3
+
+[[languages.pl.menu.main]]
+url    = "the-team"
+name   = "Zespół"
+weight = 5
+
+[[languages.pl.menu.main]]
+url    = "roadmap"
+name   = "Roadmap"
+weight = 7
+
+[[languages.pl.menu.main]]
+url    = "downloads"
+name   = "Pliki do pobrania"
+weight = 9
+
+
+[[languages.pl.menu.navmobile]]
+url    = "https://forum.bitbay.market"
+name   = "Społeczność"
+weight = 1
+
+[[languages.pl.menu.navmobile]]
+url    = "https://wallet.bitbay.market"
+name   = "Portfel na przeglądarkę"
+weight = 3
+
+[[languages.pl.menu.navmobile]]
+url    = "/buy"
+name   = "Kup $BAY"
+weight = 5

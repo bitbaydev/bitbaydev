@@ -89,3 +89,45 @@ weight = 3
 url    = "/buy"
 name   = "Buy $BAY"
 weight = 5
+
+
+[[languages.es.menu.main]]
+url    = "decentralized-marketplace"
+name   = "BitBay Marketplace"
+weight = 1
+
+[[languages.es.menu.main]]
+url    = "features"
+name   = "Caracteristicas"
+weight = 3
+
+[[languages.es.menu.main]]
+url    = "the-team"
+name   = "El equipo"
+weight = 5
+
+[[languages.es.menu.main]]
+url    = "roadmap"
+name   = "Mapa vial"
+weight = 7
+
+[[languages.es.menu.main]]
+url    = "downloads"
+name   = "Descargas"
+weight = 9
+
+
+[[languages.es.menu.navmobile]]
+url    = "https://forum.bitbay.market"
+name   = "Comunidad"
+weight = 1
+
+[[languages.es.menu.navmobile]]
+url    = "https://wallet.bitbay.market"
+name   = "Web Wallet"
+weight = 3
+
+[[languages.en.menu.navmobile]]
+url    = "/buy"
+name   = "Buy $BAY"
+weight = 5

@@ -84,25 +84,15 @@
 
 
             <ul class="menu menu--main-menu nav">
-              <li class="first">
-                <a href="/decentralized-marketplace" >Decentralized
-                  Marketplace</a>
+              {{- $currentPage := . -}}
+              {{ range .Site.Menus.main -}}
+              <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }} giorgos">
+                <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
               </li>
-              <li>
-                <a href="/features" >Features</a>
-              </li>
-              <li>
-                <a href="/the-team" >The Team</a>
-              </li>
-              <li>
-                <a href="/roadmap" >Roadmap</a>
-              </li>
-              <li>
-                <a href="/downloads" >Downloads</a>
-              </li>
+              {{- end }}  
               <li class="expanded dropdown">
-                <a href="/dynamic-peg" class="dropdown-toggle is-active" data-toggle="dropdown"
-                  ></span></a>
+                <a href="#" class="dropdown-toggle is-active" data-toggle="dropdown"
+                  >Support</span></a>
                 <ul class="dropdown-menu">
                   <li class="first">
                     <a href="https://forum.bitbay.market/c/support">Forum</a>
@@ -117,15 +107,11 @@
               <li>
                 <a href="/blog" target="_self">Blog</a>
               </li>
+              {{ range .Site.Menus.navmobile -}}
               <li>
-                <a href="https://forum.bitbay.market" class="nav-mobile">Community</a>
+                <a class="nav-mobile" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
               </li>
-              <li>
-                <a href="https://wallet.bitbay.market" class="nav-mobile">Web Wallet</a>
-              </li>
-              <li class="last">
-                <a href="/buy" class="nav-mobile" target="_self" >Buy $BAY</a>
-              </li>
+              {{- end }}               
             </ul>
 
 

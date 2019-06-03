@@ -47,3 +47,45 @@ theme = "bitbay"
     languageName = "Polish"
     weight = 8
     contentDir = "content/pl"
+
+
+[[languages.en.menu.main]]
+url    = "/decentralized-marketplace"
+name   = "Decentralized Marketplace"
+weight = 1
+
+[[languages.en.menu.main]]
+url    = "/features"
+name   = "Features"
+weight = 3
+
+[[languages.en.menu.main]]
+url    = "/the-team"
+name   = "The Team"
+weight = 5
+
+[[languages.en.menu.main]]
+url    = "/roadmap"
+name   = "Roadmap"
+weight = 7
+
+[[languages.en.menu.main]]
+url    = "/downloads"
+name   = "Downloads"
+weight = 9
+
+
+[[languages.en.menu.navmobile]]
+url    = "https://forum.bitbay.market"
+name   = "Community"
+weight = 1
+
+[[languages.en.menu.navmobile]]
+url    = "https://wallet.bitbay.market"
+name   = "Web Wallet"
+weight = 3
+
+[[languages.en.menu.navmobile]]
+url    = "/buy"
+name   = "Buy $BAY"
+weight = 5

@@ -131,3 +131,47 @@ weight = 3
 url    = "/buy"
 name   = "Buy $BAY"
 weight = 5
+
+
+
+
+[[languages.ar.menu.main]]
+url    = "decentralized-marketplace"
+name   = "اللامركزية"
+weight = 1
+
+[[languages.ar.menu.main]]
+url    = "features"
+name   = "المميزات"
+weight = 3
+
+[[languages.ar.menu.main]]
+url    = "the-team"
+name   = "الفريق"
+weight = 5
+
+[[languages.ar.menu.main]]
+url    = "roadmap"
+name   = "خارطة الطريق"
+weight = 7
+
+[[languages.ar.menu.main]]
+url    = "downloads"
+name   = "التحميلات"
+weight = 9
+
+
+[[languages.ar.menu.navmobile]]
+url    = "https://forum.bitbay.market"
+name   = "المجتمع"
+weight = 1
+
+[[languages.ar.menu.navmobile]]
+url    = "https://wallet.bitbay.market"
+name   = "محفظة الويب"
+weight = 3
+
+[[languages.ar.menu.navmobile]]
+url    = "/buy"
+name   = "شراء عملتنا"
+weight = 5

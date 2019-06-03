@@ -218,3 +218,46 @@ weight = 3
 url    = "/buy"
 name   = "Acheter $BAY"
 weight = 5
+
+
+
+[[languages.ja.menu.main]]
+url    = "fensanxingmaketsutofureisu"
+name   = "分散型マーケットプレイス"
+weight = 1
+
+[[languages.ja.menu.main]]
+url    = "features"
+name   = "特徴・機能"
+weight = 3
+
+[[languages.ja.menu.main]]
+url    = "the-team"
+name   = "チーム"
+weight = 5
+
+[[languages.ja.menu.main]]
+url    = "roadmap"
+name   = "ロードマップ"
+weight = 7
+
+[[languages.ja.menu.main]]
+url    = "downloads"
+name   = "ダウンロード"
+weight = 9
+
+
+[[languages.ja.menu.navmobile]]
+url    = "https://forum.bitbay.market"
+name   = "コミュニティー"
+weight = 1
+
+[[languages.ja.menu.navmobile]]
+url    = "https://wallet.bitbay.market"
+name   = "ウェブウォレット"
+weight = 3
+
+[[languages.ja.menu.navmobile]]
+url    = "/buy"
+name   = "$BAY購入"
+weight = 5

@@ -348,3 +348,47 @@ weight = 3
 url    = "/buy"
 name   = "Kup $BAY"
 weight = 5
+
+
+
+
+[[languages.ru.menu.main]]
+url    = "decentralizovannyy-rynok"
+name   = "Децентрализованный Рынок"
+weight = 1
+
+[[languages.ru.menu.main]]
+url    = "features"
+name   = "Функции"
+weight = 3
+
+[[languages.ru.menu.main]]
+url    = "the-team"
+name   = "Команда"
+weight = 5
+
+[[languages.ru.menu.main]]
+url    = "roadmap"
+name   = "Дорожная карта"
+weight = 7
+
+[[languages.ru.menu.main]]
+url    = "downloads"
+name   = "Загрузки"
+weight = 9
+
+
+[[languages.ru.menu.navmobile]]
+url    = "https://forum.bitbay.market"
+name   = "Сообщество"
+weight = 1
+
+[[languages.ru.menu.navmobile]]
+url    = "https://wallet.bitbay.market"
+name   = "Веб-кошелек"
+weight = 3
+
+[[languages.ru.menu.navmobile]]
+url    = "/buy"
+name   = "купить $BAY"
+weight = 5

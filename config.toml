@@ -12,41 +12,57 @@ theme = "bitbay"
     languageName = "English"
     weight = 1
     contentDir = "content/en"
+    [languages.en.params]
+      flagCode = 'gb'
   [languages.es]
     title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
     languageName = "Spanish"
     weight = 2
     contentDir = "content/es"
+    [languages.es.params]
+      flagCode = 'es'
   [languages.fr]
     title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
     languageName = "French"
     weight = 3
     contentDir = "content/fr"
+    [languages.fr.params]
+      flagCode = 'fr'
   [languages.ru]
     title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
     languageName = "Russian"
     weight = 4
     contentDir = "content/ru"
+    [languages.ru.params]
+      flagCode = 'ru'
   [languages.ja]
     title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
     languageName = "Japanese"
     weight = 5
     contentDir = "content/ja"
+    [languages.ja.params]
+      flagCode = 'jp'
   [languages.ko]
     title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
     languageName = "Korean"
     weight = 6
     contentDir = "content/ko"
+    [languages.ko.params]
+      flagCode = 'kr'
   [languages.ar]
     title = "قالب المقايضة - BitBay"
     languageName = "Arabic"
     weight = 7
     contentDir = "content/ar"
+    [languages.ar.params]
+      flagCode = 'sa'
   [languages.pl]
     title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
     languageName = "Polish"
     weight = 8
     contentDir = "content/pl"
+    [languages.pl.params]
+      flagCode = 'pl'
 
 
 [[languages.en.menu.main]]

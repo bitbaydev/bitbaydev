@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 426.667 426.666"
+   height="120.41463mm"
+   width="120.41491mm">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-166.6665,-270.45778)"
+     id="layer1">
+    <g
+       transform="matrix(1,0,0,-1,166.6665,697.12378)"
+       id="g4204"
+       style="fill:#835dd3">
+      <g
+         id="g4156">
+        <g
+           id="g4158">
+          <g
+             id="g4160">
+            <path
+               d="M 213.227,0 C 95.36,0 0,95.467 0,213.333 c 0,117.866 95.36,213.333 213.227,213.333 117.867,0 213.44,-95.467 213.44,-213.333 C 426.667,95.467 331.093,0 213.227,0 Z m 0.106,384 C 119.04,384 42.666,307.627 42.666,213.333 42.666,119.039 119.04,42.667 213.333,42.667 307.626,42.667 384,119.04 384,213.333 384,307.626 307.627,384 213.333,384 Z"
+               id="path4162" />
+            <rect
+               x="192"
+               y="277.33301"
+               width="42.667"
+               height="42.667"
+               id="rect4164" />
+            <rect
+               x="192"
+               y="106.667"
+               width="42.667"
+               height="128"
+               id="rect4166" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g4168" />
+      <g
+         id="g4170" />
+      <g
+         id="g4172" />
+      <g
+         id="g4174" />
+      <g
+         id="g4176" />
+      <g
+         id="g4178" />
+      <g
+         id="g4180" />
+      <g
+         id="g4182" />
+      <g
+         id="g4184" />
+      <g
+         id="g4186" />
+      <g
+         id="g4188" />
+      <g
+         id="g4190" />
+      <g
+         id="g4192" />
+      <g
+         id="g4194" />
+      <g
+         id="g4196" />
+    </g>
+  </g>
+</svg>

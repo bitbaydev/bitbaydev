@@ -1,0 +1,25 @@
+.block-bootstrap-languages {
+  float: right;
+  margin: 8px 0 8px 5px;
+}
+
+.block-bootstrap-languages .lang-sm {
+  top: 2px !important;
+}
+
+.block-bootstrap-languages .dropdown-menu {
+  left: inherit;
+  right: 0;
+  min-width: 0;
+}
+
+.block-bootstrap-languages.icons-dropdown-style .dropdown-menu .lang-sm:after {
+  content: none;
+}
+
+div[aria-expanded="true"] .block-bootstrap-languages .btn-group.open {
+  position: static;
+}
+div[aria-expanded="true"] .block-bootstrap-languages .btn-group.open .dropdown-menu {
+  margin-right: 15px;
+}

@@ -102,7 +102,7 @@ name   = "Web Wallet"
 weight = 3
 
 [[languages.en.menu.navmobile]]
-url    = "/buy"
+url    = "https://wallet.bitbay.market/buy.php"
 name   = "Buy $BAY"
 weight = 5
 
@@ -144,7 +144,7 @@ name   = "Web Wallet"
 weight = 3
 
 [[languages.en.menu.navmobile]]
-url    = "/buy"
+url    = "https://wallet.bitbay.market/buy.php"
 name   = "Buy $BAY"
 weight = 5
 
@@ -188,7 +188,7 @@ name   = "محفظة الويب"
 weight = 3
 
 [[languages.ar.menu.navmobile]]
-url    = "/buy"
+url    = "https://wallet.bitbay.market/buy.php"
 name   = "شراء عملتنا"
 weight = 5
 
@@ -231,7 +231,7 @@ name   = "Web Wallet"
 weight = 3
 
 [[languages.fr.menu.navmobile]]
-url    = "/buy"
+url    = "https://wallet.bitbay.market/buy.php"
 name   = "Acheter $BAY"
 weight = 5
 
@@ -274,7 +274,7 @@ name   = "ウェブウォレット"
 weight = 3
 
 [[languages.ja.menu.navmobile]]
-url    = "/buy"
+url    = "https://wallet.bitbay.market/buy.php"
 name   = "$BAY購入"
 weight = 5
 
@@ -317,7 +317,7 @@ name   = "웹 지갑"
 weight = 3
 
 [[languages.ko.menu.navmobile]]
-url    = "/buy"
+url    = "https://wallet.bitbay.market/buy.php"
 name   = "$BAY 사기"
 weight = 5
 
@@ -361,7 +361,7 @@ name   = "Portfel na przeglądarkę"
 weight = 3
 
 [[languages.pl.menu.navmobile]]
-url    = "/buy"
+url    = "https://wallet.bitbay.market/buy.php"
 name   = "Kup $BAY"
 weight = 5
 
@@ -405,6 +405,6 @@ name   = "Веб-кошелек"
 weight = 3
 
 [[languages.ru.menu.navmobile]]
-url    = "/buy"
+url    = "https://wallet.bitbay.market/buy.php"
 name   = "купить $BAY"
 weight = 5

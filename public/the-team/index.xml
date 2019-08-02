@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BitBay Team - BitBay on BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay</title>
+    <link>/the-team/</link>
+    <description>Recent content in BitBay Team - BitBay on BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Apr 2019 16:37:08 +0300</lastBuildDate>
+    
+	<atom:link href="/the-team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>David Zimbeck - BitBay</title>
+      <link>/the-team/david-zimbeck/</link>
+      <pubDate>Sat, 13 Apr 2019 16:37:08 +0300</pubDate>
+      
+      <guid>/the-team/david-zimbeck/</guid>
+      <description>David Zimbeck    David Zimbeck, our lead developer, is unlike most people you will ever meet. His resilient work ethic, diverse project experience, and deep knowledge of cryptography has led to the creation of BitHalo, the world’s first unbreakable smart contracting system. These decentralized contracts are the fundamental backbone of BitBay. Born in Ohio and having lived all over the world, he has acquired the vast perspective needed to create truly disruptive software.</description>
+    </item>
+    
+  </channel>
+</rss>

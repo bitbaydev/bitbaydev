@@ -1,0 +1,22 @@
+.send-email-form {
+  position: relative;
+}
+.send-email-form .result_message .the_message{
+  padding: 5px;
+  font-weight: bold;
+}
+.send-email-form .form-type-email input {
+  background-color: #e8e8e8;
+  padding: 22px;
+  border-radius: 5px;
+  border: 0px solid white;
+  margin-right: 119px
+}
+.send-email-form .button {
+  position: absolute;
+  top: 0px;
+  padding: 10px 19px;
+  right: 0px;
+  border-radius: 0px 5px 5px 0px;
+  border-left: 2px solid white;  
+}

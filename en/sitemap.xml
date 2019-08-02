@@ -60,6 +60,46 @@
   <url>
     <loc>/advanced-security/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/seguridad-avanzada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/advanced-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/advanced-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/advanced-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/advanced-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/advanced-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/advanced-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/advanced-security/"
+                />
   </url>
   
   <url>
@@ -75,21 +115,151 @@
   <url>
     <loc>/blog/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/"
+                />
   </url>
   
   <url>
     <loc>/brand-resources/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/brand-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/brand-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/brand-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/brand-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/brand-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/brand-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/brand-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/brand-resources/"
+                />
   </url>
   
   <url>
     <loc>/downloads/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/downloads/"
+                />
   </url>
   
   <url>
     <loc>/sitemap/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/sitemap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/sitemap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/sitemap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/sitemap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/sitemap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/sitemap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/sitemap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/sitemap/"
+                />
   </url>
   
   <url>
@@ -235,6 +405,46 @@
   <url>
     <loc>/the-team/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/the-team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/the-team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/the-team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/the-team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/the-team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/the-team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/the-team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/the-team/"
+                />
   </url>
   
   <url>
@@ -260,6 +470,16 @@
   <url>
     <loc>/blog/bitbay-dynamic-peg-stablecoin/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/bitbay-dynamic-peg-stablecoin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/bitbay-dynamic-peg-stablecoin/"
+                />
   </url>
   
   <url>
@@ -295,6 +515,16 @@
   <url>
     <loc>/blog/bitcoin-price-manipulation/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/bitcoin-price-manipulation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/bitcoin-price-manipulation/"
+                />
   </url>
   
   <url>
@@ -310,16 +540,76 @@
   <url>
     <loc>/blog/overseas-money-transfer-blockchain/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/overseas-money-transfer-blockchain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/overseas-money-transfer-blockchain/"
+                />
   </url>
   
   <url>
     <loc>/cash-coins-template/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/plantilla-de-efectivo-por-monedas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/modele-argent-contre-pieces/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/shablon-dengi-za-monety/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/koinxianjinjiaohuantenfureto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/hyeongeumeulo-koin-tempeullis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/qalb-astbdal-alnqwd-alwrqyt-balmlat-almshfrt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/szablon-cash-coins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/cash-coins-template/"
+                />
   </url>
   
   <url>
     <loc>/blog/cryptocurrency-mena-region/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/cryptocurrency-mena-region/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/cryptocurrency-mena-region/"
+                />
   </url>
   
   <url>
@@ -350,16 +640,136 @@
   <url>
     <loc>/decentralized-marketplace/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/decentralized-marketplace/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/marche-decentralise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/decentralizovannyy-rynok/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/fensanxingmaketsutofureisu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/bunsanhwadoen-makespeulleiseu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/decentralized-marketplace/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/zdecentralizowana-gielda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/decentralized-marketplace/"
+                />
   </url>
   
   <url>
     <loc>/decentralized-markets/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/mercado-descentralizado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/marches-anonymes-decentralises/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/decentralizovannye-rynki/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/fensanxingmaketsuto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/bunsanhwadoen-sijang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/aswaq-la-mrkzyt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/zdecentralizowane-anonimowe-rynki/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/decentralized-markets/"
+                />
   </url>
   
   <url>
     <loc>/decentralized-voting/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/votacion-descentralizada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/decentralized-voting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/decentralizovannoe-golosovanie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/fensanxingtoupiao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/bunsanhwadoen-tupyo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/altswyt-allamrkzy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/zdecentralizowanie-glosowanie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/decentralized-voting/"
+                />
   </url>
   
   <url>
@@ -370,21 +780,151 @@
   <url>
     <loc>/double-deposit-escrow/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/deposito-de-garantia-doble/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/double-depot-escrow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/double-deposit-escrow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/tafurutehoshitsutoesukuro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/gongdong-bojeunggeum-eseukeulo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/dman-alayda-almzdwj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/double-deposit-escrow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/double-deposit-escrow/"
+                />
   </url>
   
   <url>
     <loc>/exotic-spending/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/exotic-spending/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/exotic-spending/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/ekzoticeskie-traty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/ekisoteitsukusuhenteinku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/igugjeogin-jichul/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/alanfaq-alkharjy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/exotic-spending/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/exotic-spending/"
+                />
   </url>
   
   <url>
     <loc>/blog/cryptocurrency-exchange-traded-funds-etfs/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/cryptocurrency-exchange-traded-funds-etfs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/cryptocurrency-exchange-traded-funds-etfs/"
+                />
   </url>
   
   <url>
     <loc>/features/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/features/"
+                />
   </url>
   
   <url>
@@ -400,11 +940,31 @@
   <url>
     <loc>/blog/investors-bitcoin-holding/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/investors-bitcoin-holding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/investors-bitcoin-holding/"
+                />
   </url>
   
   <url>
     <loc>/blog/blockchain-reputation-management/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/blockchain-reputation-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/blockchain-reputation-management/"
+                />
   </url>
   
   <url>
@@ -420,11 +980,31 @@
   <url>
     <loc>/blog/undervalued-cryptocurrencies/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/undervalued-cryptocurrencies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/undervalued-cryptocurrencies/"
+                />
   </url>
   
   <url>
     <loc>/blog/business-contracts-decentralized-escrow/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/business-contracts-decentralized-escrow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/business-contracts-decentralized-escrow/"
+                />
   </url>
   
   <url>
@@ -435,11 +1015,31 @@
   <url>
     <loc>/blog/reverse-auctions/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/reverse-auctions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/reverse-auctions/"
+                />
   </url>
   
   <url>
     <loc>/blog/cryptocurrency-mining-staking/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/cryptocurrency-mining-staking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/cryptocurrency-mining-staking/"
+                />
   </url>
   
   <url>
@@ -460,6 +1060,16 @@
   <url>
     <loc>/blog/cryptocurrency-buy-sell-goods-and-services/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/cryptocurrency-buy-sell-goods-and-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/cryptocurrency-buy-sell-goods-and-services/"
+                />
   </url>
   
   <url>
@@ -475,6 +1085,16 @@
   <url>
     <loc>/blog/cryptocurrency-solution-hyperinflation/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/cryptocurrency-solution-hyperinflation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/cryptocurrency-solution-hyperinflation/"
+                />
   </url>
   
   <url>
@@ -500,11 +1120,31 @@
   <url>
     <loc>/blog/bitbay-web-marketplace/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/bitbay-web-marketplace/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/bitbay-web-marketplace/"
+                />
   </url>
   
   <url>
     <loc>/blog/peer-to-peer-p2p-contracts/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/peer-to-peer-p2p-contracts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/peer-to-peer-p2p-contracts/"
+                />
   </url>
   
   <url>
@@ -535,11 +1175,61 @@
   <url>
     <loc>/roadmap/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/roadmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/roadmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/roadmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/roadmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/roadmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/roadmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/roadmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/roadmap/"
+                />
   </url>
   
   <url>
     <loc>/blog/smart-contract-auctions/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/smart-contract-auctions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/smart-contract-auctions/"
+                />
   </url>
   
   <url>
@@ -550,11 +1240,61 @@
   <url>
     <loc>/smart-contracts/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/smart-contractos-contratos-irrompibles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/contrats-intelligents-contrats-incassables/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/smart-kontrakty-nerusimye-kontrakty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/sumatokontorakuto-porenaikontorakuto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/seumateu-keonteulaegteu-eogyeojilsu-eobsneun-gyeyag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/smart-contracts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/smart-contracts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/smart-contracts/"
+                />
   </url>
   
   <url>
     <loc>/blog/smart-contracts-physical-goods/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/smart-contracts-physical-goods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/smart-contracts-physical-goods/"
+                />
   </url>
   
   <url>
@@ -580,6 +1320,16 @@
   <url>
     <loc>/blog/cryptocurrency-trading/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/cryptocurrency-trading/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/cryptocurrency-trading/"
+                />
   </url>
   
   <url>
@@ -600,11 +1350,61 @@
   <url>
     <loc>/wall-of-features/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/wall-of-features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/wall-of-features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/wall-of-features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/wall-of-features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/wall-of-features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/wall-of-features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/wall-of-features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/wall-of-features/"
+                />
   </url>
   
   <url>
     <loc>/blog/anonymous-trading/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/anonymous-trading/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/anonymous-trading/"
+                />
   </url>
   
   <url>
@@ -635,16 +1435,46 @@
   <url>
     <loc>/blog/blockchain-marketplace/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/blockchain-marketplace/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/blockchain-marketplace/"
+                />
   </url>
   
   <url>
     <loc>/blog/smart-contracts-banking/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/smart-contracts-banking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/smart-contracts-banking/"
+                />
   </url>
   
   <url>
     <loc>/blog/future-of-cryptocurrency/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/blog/future-of-cryptocurrency/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/future-of-cryptocurrency/"
+                />
   </url>
   
   <url>

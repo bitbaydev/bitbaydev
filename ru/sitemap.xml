@@ -400,6 +400,46 @@
   <url>
     <loc>/ru/decentralizovannye-aukciony-i-obratnye-aukciony/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/decentralized-auctions-and-reverse-auctions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/subastas-descentralizadas-y-subastas-inversas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/encheres-et-encheres-inversees-decentralisees/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/fensanxingokushiyontoniokushiyon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/bunsanjeog-gyeongmaewa-yeoggyeongmae/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/almzadat-allamrkzyt-walmzadat-alksyt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/zdecentralizowane-oraz-odwrotne-aukcje/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/decentralizovannye-aukciony-i-obratnye-aukciony/"
+                />
   </url>
   
   <url>
@@ -648,37 +688,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/double-deposit-escrow/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/deposito-de-garantia-doble/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/double-depot-escrow/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/tafurutehoshitsutoesukuro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/gongdong-bojeunggeum-eseukeulo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="/ar/dman-alayda-almzdwj/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="/pl/double-deposit-escrow/"
+                href="/blog/double-deposit-escrow/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1090,6 +1100,46 @@
   <url>
     <loc>/ru/shablon-barter/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/barter-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/plantilla-de-trueque/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/modele-troc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/hatatenfureto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/mulmulgyohwan-tempeullis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/qalb-almqaydt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/szablon-handel-wymienny/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/shablon-barter/"
+                />
   </url>
   
   <url>
@@ -1140,6 +1190,46 @@
   <url>
     <loc>/ru/shablony-naym-specialista-poisk-raboty/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/hire-someone-find-job-templates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/contrata-alguien-encuentra-un-trabajo-de-plantillas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/modeles-embaucher-quelquun-trouver-un-travail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/guyongqiuzhitenfureto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/guin-gujig-tempeullis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/qalb-astyjar-shkhs-albhth-n-ml/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/szablony-zatrudnij-kogos-znajdz-prace/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/shablony-naym-specialista-poisk-raboty/"
+                />
   </url>
   
   <url>
@@ -1190,6 +1280,46 @@
   <url>
     <loc>/ru/eskrou-dvoinogo-depozita/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/double-deposit-escrow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/deposito-de-garantia-doble/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/double-depot-escrow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/tafurutehoshitsutoesukuro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/gongdong-bojeunggeum-eseukeulo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/dman-alayda-almzdwj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/double-deposit-escrow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/eskrou-dvoinogo-depozita/"
+                />
   </url>
   
   <url>

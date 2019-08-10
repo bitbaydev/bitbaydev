@@ -62,7 +62,7 @@
 .lang-xs[lang=tr] { background-position: 0px  -429px; }
 .lang-xs[lang=uk] { background-position: 0px  -440px; }
 .lang-xs[lang=vi] { background-position: 0px  -451px; }
-.lang-xs[lang=zh] { background-position: 0px  -462px; }
+.lang-xs[lang=cn] { background-position: 0px  -462px; }
 
 /* Positions in our sprite for sm-sized images */
 .lang-sm[lang=ar] { background-position: 0px  -484px; }
@@ -107,7 +107,7 @@
 .lang-sm[lang=tr] { background-position: 0px -1108px; }
 .lang-sm[lang=uk] { background-position: 0px -1124px; }
 .lang-sm[lang=vi] { background-position: 0px -1140px; }
-.lang-sm[lang=zh] { background-position: 0px -1156px; }
+.lang-sm[lang=cn] { background-position: 0px -1156px; }
 
 /* Positions in our sprite for lg-sized images */
 .lang-lg[lang=ar] { background-position: 0px -1188px; }
@@ -152,7 +152,7 @@
 .lang-lg[lang=tr] { background-position: 0px -2046px; }
 .lang-lg[lang=uk] { background-position: 0px -2068px; }
 .lang-lg[lang=vi] { background-position: 0px -2090px; }
-.lang-lg[lang=zh] { background-position: 0px -2112px; }
+.lang-lg[lang=cn] { background-position: 0px -2112px; }
 
 /* Labels for the unknown language */
 .lang-lbl:after      { content: "Unknown language"; }
@@ -202,7 +202,7 @@
 .lang-lbl[lang=tr]:after { content: "T\0000FCrk\0000E7e"; }
 .lang-lbl[lang=uk]:after { content: "\000423\00043A\000440\000430\000457\00043D\000441\00044C\00043A\000430"; }
 .lang-lbl[lang=vi]:after { content: "Ti\001EBFng\000020vi\001EC7t"; }
-.lang-lbl[lang=zh]:after { content: "\004E2D\006587"; }
+.lang-lbl[lang=cn]:after { content: "\004E2D\006587"; }
 
 /* Labels in english language */
 .lang-lbl-en[lang=ar]:after { content: "Arabic"; }
@@ -247,7 +247,7 @@
 .lang-lbl-en[lang=tr]:after { content: "Turkish"; }
 .lang-lbl-en[lang=uk]:after { content: "Ukrainian"; }
 .lang-lbl-en[lang=vi]:after { content: "Vietnamese"; }
-.lang-lbl-en[lang=zh]:after { content: "Chinese"; }
+.lang-lbl-en[lang=cn]:after { content: "Chinese"; }
 
 /* Combined native/english labels */
 .lang-lbl-full[lang=ar]:after { content: "\000627\000644\000639\000631\000628\00064A\000629\0000A0/\0000A0Arabic"; }
@@ -292,7 +292,7 @@
 .lang-lbl-full[lang=tr]:after { content: "T\0000FCrk\0000E7e\0000A0/\0000A0Turkish"; }
 .lang-lbl-full[lang=uk]:after { content: "\000423\00043A\000440\000430\000457\00043D\000441\00044C\00043A\000430\0000A0/\0000A0Ukrainian"; }
 .lang-lbl-full[lang=vi]:after { content: "Ti\001EBFng\000020vi\001EC7t\0000A0/\0000A0Vietnamese"; }
-.lang-lbl-full[lang=zh]:after { content: "\004E2D\006587\0000A0/\0000A0Chinese"; }
+.lang-lbl-full[lang=cn]:after { content: "\004E2D\006587\0000A0/\0000A0Chinese"; }
 
 /* One breaking space if we have an image */
 .lang-xs:before,

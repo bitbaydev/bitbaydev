@@ -63,6 +63,13 @@ theme = "bitbay"
     contentDir = "content/pl"
     [languages.pl.params]
       flagCode = 'pl'
+  [languages.cn]
+    title = "BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart Contracts - BitBay"
+    languageName = "Chinese"
+    weight = 9
+    contentDir = "content/cn"
+    [languages.cn.params]
+      flagCode = 'cn'
 
 
 [[languages.en.menu.main]]
@@ -407,4 +414,45 @@ weight = 3
 [[languages.ru.menu.navmobile]]
 url    = "https://wallet.bitbay.market/buy.php"
 name   = "купить $BAY"
+weight = 5
+
+[[languages.cn.menu.main]]
+url    = "decentralized-marketplace"
+name   = "Decentralized Marketplace"
+weight = 1
+
+[[languages.cn.menu.main]]
+url    = "features"
+name   = "Features"
+weight = 3
+
+[[languages.cn.menu.main]]
+url    = "the-team"
+name   = "The Team"
+weight = 5
+
+[[languages.cn.menu.main]]
+url    = "roadmap"
+name   = "Roadmap"
+weight = 7
+
+[[languages.cn.menu.main]]
+url    = "downloads"
+name   = "Downloads"
+weight = 9
+
+
+[[languages.cn.menu.navmobile]]
+url    = "https://forum.bitbay.market"
+name   = "Community"
+weight = 1
+
+[[languages.cn.menu.navmobile]]
+url    = "https://wallet.bitbay.market"
+name   = "Web Wallet"
+weight = 3
+
+[[languages.cn.menu.navmobile]]
+url    = "https://wallet.bitbay.market/buy.php"
+name   = "Buy $BAY"
 weight = 5

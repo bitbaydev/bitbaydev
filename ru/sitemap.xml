@@ -42,6 +42,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/"
                 />
@@ -102,6 +107,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/brand-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/brand-resources/"
                 />
@@ -144,6 +154,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/downloads/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -192,6 +207,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/sitemap/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/sitemap/"
                 />
@@ -234,6 +254,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/the-team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/the-team/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -287,6 +312,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/features/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/features/"
                 />
@@ -329,6 +359,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/roadmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/roadmap/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -387,6 +422,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/decentralized-voting/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/decentralizovannoe-golosovanie/"
                 />
@@ -437,6 +477,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/decentralized-auctions-and-reverse-auctions/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/decentralizovannye-aukciony-i-obratnye-aukciony/"
                 />
@@ -482,6 +527,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/decentralized-markets/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/decentralizovannye-rynki/"
                 />
@@ -524,6 +574,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/zdecentralizowana-gielda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/decentralized-marketplace/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -892,6 +947,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/advanced-security/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/advanced-security/"
                 />
@@ -957,6 +1017,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/smart-contracts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/smart-kontrakty-nerusimye-kontrakty/"
                 />
@@ -1009,6 +1074,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/wall-of-features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/wall-of-features/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1137,6 +1207,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/barter-template/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/shablon-barter/"
                 />
@@ -1179,6 +1254,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/szablon-cash-coins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/cash-coins-template/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1227,6 +1307,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/hire-someone-find-job-templates/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/shablony-naym-specialista-poisk-raboty/"
                 />
@@ -1272,6 +1357,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/exotic-spending/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/ekzoticeskie-traty/"
                 />
@@ -1314,6 +1404,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/double-deposit-escrow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/double-deposit-escrow/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1382,6 +1477,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="/ru/categories/"
                 />
@@ -1424,6 +1524,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"

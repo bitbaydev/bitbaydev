@@ -57,4 +57,11 @@
 		
 	</sitemap>
 	
+	<sitemap>
+	   	<loc>/cn/sitemap.xml</loc>
+		
+	   	<lastmod>2019-04-13T16:37:08+03:00</lastmod>
+		
+	</sitemap>
+	
 </sitemapindex>

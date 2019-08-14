@@ -42,6 +42,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/"
                 />
@@ -97,6 +102,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/advanced-security/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/advanced-security/"
                 />
@@ -139,6 +149,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/szablon-handel-wymienny/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/barter-template/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -207,6 +222,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/brand-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/brand-resources/"
                 />
@@ -252,6 +272,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/downloads/"
                 />
@@ -294,6 +319,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/sitemap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/sitemap/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -482,6 +512,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/the-team/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/the-team/"
                 />
@@ -632,6 +667,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/cash-coins-template/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/cash-coins-template/"
                 />
@@ -665,6 +705,16 @@
   <url>
     <loc>/the-team/david-zimbeck/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/the-team/david-zimbeck/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/the-team/david-zimbeck/"
+                />
   </url>
   
   <url>
@@ -709,6 +759,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/zdecentralizowane-oraz-odwrotne-aukcje/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/decentralized-auctions-and-reverse-auctions/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -757,6 +812,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/decentralized-marketplace/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/decentralized-marketplace/"
                 />
@@ -802,6 +862,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/decentralized-markets/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/decentralized-markets/"
                 />
@@ -844,6 +909,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/zdecentralizowanie-glosowanie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/decentralized-voting/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -897,6 +967,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/double-deposit-escrow/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/double-deposit-escrow/"
                 />
@@ -939,6 +1014,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/exotic-spending/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/exotic-spending/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1002,6 +1082,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/features/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/features/"
                 />
@@ -1044,6 +1129,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/szablony-zatrudnij-kogos-znajdz-prace/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/hire-someone-find-job-templates/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1275,6 +1365,16 @@
   <url>
     <loc>/privacy-statement/</loc>
     <lastmod>2019-04-13T16:37:08+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/privacy-statement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/privacy-statement/"
+                />
   </url>
   
   <url>
@@ -1329,6 +1429,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/roadmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/roadmap/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1394,6 +1499,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/smart-contracts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/smart-contracts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1504,6 +1614,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/wall-of-features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/wall-of-features/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1662,6 +1777,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/categories/"
                 />
@@ -1704,6 +1824,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -42,6 +42,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pl"
                 href="/pl/"
                 />
@@ -84,6 +89,11 @@
                 rel="alternate"
                 hreflang="ar"
                 href="/ar/brand-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/brand-resources/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -132,6 +142,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/downloads/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pl"
                 href="/pl/downloads/"
                 />
@@ -174,6 +189,11 @@
                 rel="alternate"
                 hreflang="ar"
                 href="/ar/sitemap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/sitemap/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -222,6 +242,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/the-team/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pl"
                 href="/pl/the-team/"
                 />
@@ -264,6 +289,11 @@
                 rel="alternate"
                 hreflang="ar"
                 href="/ar/wall-of-features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/wall-of-features/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -312,6 +342,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/exotic-spending/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pl"
                 href="/pl/exotic-spending/"
                 />
@@ -354,6 +389,11 @@
                 rel="alternate"
                 hreflang="ar"
                 href="/ar/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/features/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -402,6 +442,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/smart-contracts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pl"
                 href="/pl/smart-contracts/"
                 />
@@ -444,6 +489,11 @@
                 rel="alternate"
                 hreflang="ar"
                 href="/ar/dman-alayda-almzdwj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/double-deposit-escrow/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -492,6 +542,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/roadmap/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pl"
                 href="/pl/roadmap/"
                 />
@@ -534,6 +589,11 @@
                 rel="alternate"
                 hreflang="ar"
                 href="/ar/qalb-astbdal-alnqwd-alwrqyt-balmlat-almshfrt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/cash-coins-template/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -582,6 +642,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/barter-template/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pl"
                 href="/pl/szablon-handel-wymienny/"
                 />
@@ -624,6 +689,11 @@
                 rel="alternate"
                 hreflang="ar"
                 href="/ar/qalb-astyjar-shkhs-albhth-n-ml/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/hire-someone-find-job-templates/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -672,6 +742,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/advanced-security/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pl"
                 href="/pl/advanced-security/"
                 />
@@ -714,6 +789,11 @@
                 rel="alternate"
                 hreflang="ar"
                 href="/ar/decentralized-marketplace/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/decentralized-marketplace/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -762,6 +842,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/decentralized-markets/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pl"
                 href="/pl/zdecentralizowane-anonimowe-rynki/"
                 />
@@ -804,6 +889,11 @@
                 rel="alternate"
                 hreflang="ar"
                 href="/ar/almzadat-allamrkzyt-walmzadat-alksyt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/decentralized-auctions-and-reverse-auctions/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -852,6 +942,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/decentralized-voting/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pl"
                 href="/pl/zdecentralizowanie-glosowanie/"
                 />
@@ -897,6 +992,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="/cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pl"
                 href="/pl/categories/"
                 />
@@ -939,6 +1039,11 @@
                 rel="alternate"
                 hreflang="ar"
                 href="/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"

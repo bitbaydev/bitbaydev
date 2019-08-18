@@ -418,41 +418,41 @@ weight = 5
 
 [[languages.cn.menu.main]]
 url    = "decentralized-marketplace"
-name   = "Decentralized Marketplace"
+name   = "分散的市場"
 weight = 1
 
 [[languages.cn.menu.main]]
 url    = "features"
-name   = "Features"
+name   = "特性"
 weight = 3
 
 [[languages.cn.menu.main]]
 url    = "the-team"
-name   = "The Team"
+name   = "团队"
 weight = 5
 
 [[languages.cn.menu.main]]
 url    = "roadmap"
-name   = "Roadmap"
+name   = "路线图"
 weight = 7
 
 [[languages.cn.menu.main]]
 url    = "downloads"
-name   = "Downloads"
+name   = "下载"
 weight = 9
 
 
 [[languages.cn.menu.navmobile]]
 url    = "https://forum.bitbay.market"
-name   = "Community"
+name   = "社区"
 weight = 1
 
 [[languages.cn.menu.navmobile]]
 url    = "https://wallet.bitbay.market"
-name   = "Web Wallet"
+name   = "Web钱包"
 weight = 3
 
 [[languages.cn.menu.navmobile]]
 url    = "https://wallet.bitbay.market/buy.php"
-name   = "Buy $BAY"
+name   = "购买$BAY"
 weight = 5

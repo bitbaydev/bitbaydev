@@ -108,11 +108,6 @@ url    = "https://wallet.bitbay.market"
 name   = "Web Wallet"
 weight = 3
 
-[[languages.en.menu.navmobile]]
-url    = "https://wallet.bitbay.market/buy.php"
-name   = "Buy $BAY"
-weight = 5
-
 
 [[languages.es.menu.main]]
 url    = "decentralized-marketplace"
@@ -149,11 +144,6 @@ weight = 1
 url    = "https://wallet.bitbay.market"
 name   = "Web Wallet"
 weight = 3
-
-[[languages.en.menu.navmobile]]
-url    = "https://wallet.bitbay.market/buy.php"
-name   = "Buy $BAY"
-weight = 5
 
 
 
@@ -194,12 +184,6 @@ url    = "https://wallet.bitbay.market"
 name   = "محفظة الويب"
 weight = 3
 
-[[languages.ar.menu.navmobile]]
-url    = "https://wallet.bitbay.market/buy.php"
-name   = "شراء عملتنا"
-weight = 5
-
-
 
 [[languages.fr.menu.main]]
 url    = "decentralized-marketplace"
@@ -237,10 +221,6 @@ url    = "https://wallet.bitbay.market"
 name   = "Web Wallet"
 weight = 3
 
-[[languages.fr.menu.navmobile]]
-url    = "https://wallet.bitbay.market/buy.php"
-name   = "Acheter $BAY"
-weight = 5
 
 
 
@@ -280,10 +260,6 @@ url    = "https://wallet.bitbay.market"
 name   = "ウェブウォレット"
 weight = 3
 
-[[languages.ja.menu.navmobile]]
-url    = "https://wallet.bitbay.market/buy.php"
-name   = "$BAY購入"
-weight = 5
 
 
 
@@ -323,10 +299,6 @@ url    = "https://wallet.bitbay.market"
 name   = "웹 지갑"
 weight = 3
 
-[[languages.ko.menu.navmobile]]
-url    = "https://wallet.bitbay.market/buy.php"
-name   = "$BAY 사기"
-weight = 5
 
 
 
@@ -367,11 +339,6 @@ url    = "https://wallet.bitbay.market"
 name   = "Portfel na przeglądarkę"
 weight = 3
 
-[[languages.pl.menu.navmobile]]
-url    = "https://wallet.bitbay.market/buy.php"
-name   = "Kup $BAY"
-weight = 5
-
 
 
 
@@ -411,10 +378,7 @@ url    = "https://wallet.bitbay.market"
 name   = "Веб-кошелек"
 weight = 3
 
-[[languages.ru.menu.navmobile]]
-url    = "https://wallet.bitbay.market/buy.php"
-name   = "купить $BAY"
-weight = 5
+
 
 [[languages.cn.menu.main]]
 url    = "decentralized-marketplace"
@@ -451,8 +415,3 @@ weight = 1
 url    = "https://wallet.bitbay.market"
 name   = "Web钱包"
 weight = 3
-
-[[languages.cn.menu.navmobile]]
-url    = "https://wallet.bitbay.market/buy.php"
-name   = "购买$BAY"
-weight = 5

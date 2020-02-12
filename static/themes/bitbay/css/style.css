@@ -2424,11 +2424,13 @@ nav.w-nav-menu > ul > li > a.is-active.w--current {
 
   header.navbar .dropdown .dropdown-menu li a {
     color: white;
-    padding: 10px 15px;
+    padding: 5px 15px;
   }
 
   header.navbar .dropdown .dropdown-menu li a:hover {
     box-shadow: inset 0 3px 0 0 transparent;
+    background-color: transparent;
+    color: #ffd402;
   }
 
   header.navbar li.dropdown.open > a {

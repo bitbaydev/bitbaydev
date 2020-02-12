@@ -2414,6 +2414,7 @@ nav.w-nav-menu > ul > li > a.is-active.w--current {
     border: none;
     box-shadow: none;
     float: none;
+    display: block;
   }
 
   header.navbar .dropdown .dropdown-menu li {
